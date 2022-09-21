@@ -35,9 +35,7 @@ text-align:center;
 
 }
 
-#slika {
-    width: 22rem;
-    height:22rem;
-    
-   
+.slika {
+width: 28rem;
+height:auto;
 }
