@@ -1,2 +1,2 @@
 # projekt-web
-# https://sinke100.github.io/projektweb/
+# https://sinke100.github.io/projekt-web/
